@@ -1,0 +1,16 @@
+OTUID	Group
+Mock1	Mock
+Mock2	Mock
+Mock3	Mock
+Mock4	Mock
+Mock6	Mock
+Moryzae1	M.oryzae
+Moryzae2	M.oryzae
+Moryzae3	M.oryzae
+Moryzae5	M.oryzae
+Moryzae6	M.oryzae
+Uvirens1	U.virens
+Uvirens2	U.virens
+Uvirens4	U.virens
+Uvirens5	U.virens
+Uvirens6	U.virens
